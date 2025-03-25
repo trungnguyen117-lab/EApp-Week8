@@ -6,6 +6,7 @@ on:
       - main
       - test
       - hello
+      - hi
   pull_request:
     branches:
       - main
