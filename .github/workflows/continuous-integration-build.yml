@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - test
+      - hello
   pull_request:
     branches:
       - main
